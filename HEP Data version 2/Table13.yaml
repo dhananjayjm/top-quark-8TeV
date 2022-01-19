@@ -1,0 +1,155 @@
+independent_variables:
+- header: {name: '$p_{\mathrm{T}}(l\nu\mathrm{b})$', units: 'GeV'}
+  values:
+  - {high: 35, low: 0}
+  - {high: 50, low: 35}
+  - {high: 75, low: 50}
+  - {high: 100, low: 75}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 35, low: 0}
+  - {high: 50, low: 35}
+  - {high: 75, low: 50}
+  - {high: 100, low: 75}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 35, low: 0}
+  - {high: 50, low: 35}
+  - {high: 75, low: 50}
+  - {high: 100, low: 75}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 35, low: 0}
+  - {high: 50, low: 35}
+  - {high: 75, low: 50}
+  - {high: 100, low: 75}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 35, low: 0}
+  - {high: 50, low: 35}
+  - {high: 75, low: 50}
+  - {high: 100, low: 75}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 35, low: 0}
+  - {high: 50, low: 35}
+  - {high: 75, low: 50}
+  - {high: 100, low: 75}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 35, low: 0}
+  - {high: 50, low: 35}
+  - {high: 75, low: 50}
+  - {high: 100, low: 75}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}    
+- header: {name: '$p_{\mathrm{T}}(\hat{t\hspace{-0.2mm}})$', units: 'GeV'}
+  values:
+  - {high: 35, low: 0}
+  - {high: 35, low: 0}
+  - {high: 35, low: 0}
+  - {high: 35, low: 0}
+  - {high: 35, low: 0}
+  - {high: 35, low: 0}
+  - {high: 35, low: 0}
+  - {high: 50, low: 35}
+  - {high: 50, low: 35}
+  - {high: 50, low: 35}
+  - {high: 50, low: 35}
+  - {high: 50, low: 35}
+  - {high: 50, low: 35}
+  - {high: 50, low: 35} 
+  - {high: 75, low: 50}
+  - {high: 75, low: 50}
+  - {high: 75, low: 50}
+  - {high: 75, low: 50}
+  - {high: 75, low: 50}
+  - {high: 75, low: 50}
+  - {high: 75, low: 50}
+  - {high: 100, low: 75}
+  - {high: 100, low: 75}
+  - {high: 100, low: 75}
+  - {high: 100, low: 75}
+  - {high: 100, low: 75}
+  - {high: 100, low: 75}
+  - {high: 100, low: 75}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+dependent_variables:
+- header: {name: Correlation}
+  values:
+  - {value: 0.84}
+  - {value: 0.16}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.16}
+  - {value: 0.69}
+  - {value: 0.15}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.02}
+  - {value: 0.12}
+  - {value: 0.79}
+  - {value: 0.07}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.01}
+  - {value: 0.17}
+  - {value: 0.75}
+  - {value: 0.06}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.01}
+  - {value: 0.14}
+  - {value: 0.82}
+  - {value: 0.02}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.18}
+  - {value: 0.78}
+  - {value: 0.04}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.01}
+  - {value: 0.16}
+  - {value: 0.83}  

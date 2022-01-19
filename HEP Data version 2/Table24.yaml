@@ -1,0 +1,76 @@
+independent_variables: 
+- header: {name: '$|y(\hat{j\hspace{-0.2mm}})|$'}
+  values:
+  - {value: '0.0-1.2'}
+  - {value: '1.2-1.7'}
+  - {value: '1.7-2.2'}
+  - {value: '2.2-2.7'}
+  - {value: '2.7-3.3'}
+  - {value: '3.3-4.5'}     
+dependent_variables:
+- header: {name: '$\dfrac{\mathrm{d}\sigma(tq)}{\mathrm{d}|y(\hat{j\hspace{-0.2mm}})|}$', units: '$\mathrm{pb}$'}    
+  values:
+  - errors:
+    - {label: stat, symerror: 0.14}
+    - asymerror: {minus: -0.28, plus: 0.28}
+      label: syst
+    value: 1.62
+  - errors:
+    - {label: stat, symerror: 0.18}
+    - asymerror: {minus: -0.20, plus: 0.22}
+      label: syst
+    value: 2.40
+  - errors:
+    - {label: stat, symerror: 0.15}
+    - asymerror: {minus: -0.20, plus: 0.19}
+      label: syst
+    value: 2.21
+  - errors:
+    - {label: stat, symerror: 0.16}
+    - asymerror: {minus: -0.19, plus: 0.19}
+      label: syst
+    value: 3.72
+  - errors:
+    - {label: stat, symerror: 0.13}
+    - asymerror: {minus: -0.17, plus: 0.16}
+      label: syst
+    value: 3.23
+  - errors:
+    - {label: stat, symerror: 0.06}
+    - asymerror: {minus: -0.10, plus: 0.10}
+      label: syst
+    value: 1.50        
+     
+- header: {name: '$\left(\dfrac{1}{\sigma}\right)\dfrac{\mathrm{d}\sigma( tq)}{\mathrm{d}|y(\hat{j\hspace{-0.2mm}})|}$', units: '$\mathrm{10^{-3}}$'}    
+  values:
+  - errors:
+    - {label: stat, symerror: 12}
+    - asymerror: {minus: -22, plus: 22}
+      label: syst
+    value: 164
+  - errors:
+    - {label: stat, symerror: 17}
+    - asymerror: {minus: -11, plus: 15}
+      label: syst
+    value: 244
+  - errors:
+    - {label: stat, symerror: 15}
+    - asymerror: {minus: -11, plus: 10}
+      label: syst
+    value: 224
+  - errors:
+    - {label: stat, symerror: 16}
+    - asymerror: {minus: -16, plus: 16}
+      label: syst
+    value: 378 
+  - errors:
+    - {label: stat, symerror: 13}
+    - asymerror: {minus: -15, plus: 15}
+      label: syst
+    value: 328
+  - errors:
+    - {label: stat, symerror: 6.0}
+    - asymerror: {minus: -9.3, plus: 9.2}
+      label: syst
+    value: 152.5    
+      

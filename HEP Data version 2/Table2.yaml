@@ -1,0 +1,28 @@
+independent_variables:
+- header: {name: 'Observable'}
+  values:
+  - value: "N($e$)+N($\\mu$)"
+  - value: "p$_{\\text{T}}$($\\ell$)"
+  - value: "|$\\eta$($\\ell$)|"
+  - value: "N(JET)"
+  - value: "p$_{\\text{T}}$(JET)"
+  - value: "|$\\eta$(JET)|"
+  - value: "N($b$-JET / $\\bar{b}$-JET)"
+  - value: "p$_{\\text{T}}$($b/\\bar{b}$-JET)"
+  - value: "|$\\eta$($b/\\bar{b}$-JET)|"
+  - value: "$m(\\ell b)$"
+dependent_variables:
+- header: {name: 'Cut value'}
+  qualifiers:
+  - {name: '', value: 'Fiducial region'}
+  values:
+  - value: '= 1'
+  - value: '> 25 GEV'
+  - value: '< 2.5'
+  - value: '= 2'
+  - value: '> 30 GEV'
+  - value: '< 4.5'
+  - value: '= 1'
+  - value: '> 30 GEV'
+  - value: '< 2.5'
+  - value: '< 160 GEV'

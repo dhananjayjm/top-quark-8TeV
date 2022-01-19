@@ -1,0 +1,61 @@
+dependent_variables:
+- header: {name: '$\ell^{+}~\mathrm{SR}~(O_{\mathrm{NN2}}~>~0.8)$'}  
+  values:
+  - value: 3440
+    errors:
+    - {symerror: 140}
+  - value: 2
+    
+  - value: 1072
+    errors:
+    - {symerror: 64}
+  - value: 770
+    errors:
+    - {symerror: 150}
+  - value: 0    
+  - value: 43
+    errors:
+    - {symerror: 9}
+  - value: 192
+    errors:
+    - {symerror: 30}
+  - value: 5520
+    errors:
+    - {symerror: 220}
+  - value: 5546    
+- header: {name: '$\ell^{-}~\mathrm{SR}~(O_{\mathrm{NN2}}~>~0.8)$'}  
+  values:
+  - value: 3
+    
+  - value: 1860
+    errors:
+    - {symerror: 100}
+  - value: 1057
+    errors:
+    - {symerror: 63}
+  - value: 0    
+  - value: 494
+    errors:
+    - {symerror: 99}
+  - value: 48
+    errors:
+    - {symerror: 10}
+  - value: 186
+    errors:
+    - {symerror: 27}
+  - value: 3650
+    errors:
+    - {symerror: 160}
+  - value: 3647 
+independent_variables:
+- header: {name: '$\mathrm{Process}$'}
+  values:
+  - {value: '$tq$'}
+  - {value: '$\bar{t}q$'}
+  - {value: '$t\bar{t}$, $Wt$, $t\bar{b}/\bar{t}b$'}
+  - {value: '$W^{+}+$ jets'}
+  - {value: '$W^{-}+$ jets'}
+  - {value: '$Z$, $VV + $ jets'}
+  - {value: 'Multijet'}
+  - {value: 'Total estimated'}
+  - {value: 'Data'}  

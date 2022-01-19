@@ -1,0 +1,32 @@
+dependent_variables:
+- header: {name: '$\dfrac{\Delta R_{t}}{R_{t}}~[\%]$'}
+  values:
+  - {value: '$\pm~3.0$'}
+  - {value: '$\pm~1.8$'}
+  - {value: '$\pm~0.7$'}
+  - {value: '$\pm~0.5$'}
+  - {value: '$\pm~0.6$'}
+  - {value: '$\pm~0.5$'}
+  - {value: '$\pm~0.7$'}
+  - {value: '$\pm~2.3$'}
+  - {value: '$\pm~1.7$'}
+  - {value: '$\pm~0.7$'}
+  - {value: '$\pm~3.9$'}
+  - {value: '$\pm~5.0$'}
+  
+independent_variables:
+- header: {name: 'Source'}
+  values:
+  - {value: 'Data statistics'} 
+  - {value: 'Monte Carlo statistics'}
+  - {value: 'Background modelling'} 
+  - {value: 'Jet reconstruction'}
+  - {value: '$E_{\mathrm{T}}^{\mathrm{miss}}~$modelling'} 
+  - {value: '$tq\;(\bar tq)~$NLO matching'}
+  - {value: '$tq\;(\bar tq)~$scale variations'} 
+  - {value: '$t\bar t~$NLO matching'}
+  - {value: '$t\bar t~$parton shower'} 
+  - {value: 'PDF'}
+  - {value: 'Total systematic'} 
+  - {value: 'Total (stat. $~+~$ syst.)'}
+  

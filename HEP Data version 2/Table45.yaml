@@ -1,0 +1,117 @@
+independent_variables:
+- header: {name: '$|y(\hat{j\hspace{-0.2mm}})|$'}
+  values:
+  - {high: 1.20, low: 0.00}
+  - {high: 1.70, low: 1.20}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.70, low: 2.20}
+  - {high: 3.30, low: 2.70}
+  - {high: 4.50, low: 3.30}
+  - {high: 1.20, low: 0.00}
+  - {high: 1.70, low: 1.20}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.70, low: 2.20}
+  - {high: 3.30, low: 2.70}
+  - {high: 4.50, low: 3.30}
+  - {high: 1.20, low: 0.00}
+  - {high: 1.70, low: 1.20}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.70, low: 2.20}
+  - {high: 3.30, low: 2.70}
+  - {high: 4.50, low: 3.30}
+  - {high: 1.20, low: 0.00}
+  - {high: 1.70, low: 1.20}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.70, low: 2.20}
+  - {high: 3.30, low: 2.70}
+  - {high: 4.50, low: 3.30}
+  - {high: 1.20, low: 0.00}
+  - {high: 1.70, low: 1.20}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.70, low: 2.20}
+  - {high: 3.30, low: 2.70}
+  - {high: 4.50, low: 3.30}
+  - {high: 1.20, low: 0.00}
+  - {high: 1.70, low: 1.20}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.70, low: 2.20}
+  - {high: 3.30, low: 2.70}
+  - {high: 4.50, low: 3.30}
+- header: {name: '$|y(\hat{j\hspace{-0.2mm}})|$'}
+  values:
+  - {high: 1.20, low: 0.00}
+  - {high: 1.20, low: 0.00}
+  - {high: 1.20, low: 0.00}
+  - {high: 1.20, low: 0.00}
+  - {high: 1.20, low: 0.00}
+  - {high: 1.20, low: 0.00}
+  - {high: 1.70, low: 1.20}
+  - {high: 1.70, low: 1.20}
+  - {high: 1.70, low: 1.20}
+  - {high: 1.70, low: 1.20}
+  - {high: 1.70, low: 1.20}
+  - {high: 1.70, low: 1.20}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.20, low: 1.70}
+  - {high: 2.70, low: 2.20}
+  - {high: 2.70, low: 2.20}
+  - {high: 2.70, low: 2.20}
+  - {high: 2.70, low: 2.20}
+  - {high: 2.70, low: 2.20}
+  - {high: 2.70, low: 2.20}
+  - {high: 3.30, low: 2.70}
+  - {high: 3.30, low: 2.70}
+  - {high: 3.30, low: 2.70}
+  - {high: 3.30, low: 2.70}
+  - {high: 3.30, low: 2.70}
+  - {high: 3.30, low: 2.70}
+  - {high: 4.50, low: 3.30}
+  - {high: 4.50, low: 3.30}
+  - {high: 4.50, low: 3.30}
+  - {high: 4.50, low: 3.30}
+  - {high: 4.50, low: 3.30}
+  - {high: 4.50, low: 3.30}
+
+dependent_variables:
+- header: {name: Correlation}
+  values:  
+  - {value: 1.00}
+  - {value: -0.37}
+  - {value: -0.42}
+  - {value: -0.41}
+  - {value: -0.45}
+  - {value: -0.42}
+  - {value: -0.37}
+  - {value: 1.00}
+  - {value: -0.15}
+  - {value: -0.10}
+  - {value: -0.10}
+  - {value: -0.08}
+  - {value: -0.42}
+  - {value: -0.15}
+  - {value: 1.00}
+  - {value: -0.06}
+  - {value: 0.00}
+  - {value: 0.03}
+  - {value: -0.41}
+  - {value: -0.10}
+  - {value: -0.06}
+  - {value: 1.00}
+  - {value: 0.01}
+  - {value: 0.06}
+  - {value: -0.45}
+  - {value: -0.10}
+  - {value: 0.00}
+  - {value: 0.01}
+  - {value: 1.00}
+  - {value: 0.08}
+  - {value: -0.42}
+  - {value: -0.08}
+  - {value: 0.03}
+  - {value: 0.06}
+  - {value: 0.08}
+  - {value: 1.00}

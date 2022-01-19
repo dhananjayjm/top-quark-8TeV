@@ -1,0 +1,16 @@
+dependent_variables:
+- header: {name: '$\dfrac{\Delta N}{N}~(\%)$'}
+  values:
+  - {value: 7.5}
+  - {value: 7.1}
+  - {value: 7.3}
+  - {value: 20}
+  - {value: 16}  
+independent_variables:
+- header: {name: '$\mathrm{Process}$'}
+  values:
+  - {value: '$t\bar{t}$, $Wt$, $t\bar{b}$'}
+  - {value: '$W^{+}+$ jets'}
+  - {value: '$W^{-}+$ jets'}
+  - {value: '$Z$, $VV + $ jets'}
+  - {value: 'Multijets'}  

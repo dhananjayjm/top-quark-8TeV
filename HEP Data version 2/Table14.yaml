@@ -1,0 +1,84 @@
+independent_variables:
+- header: {name: '$p_{\mathrm{T}}(l\nu\mathrm{b})$', units: 'GeV'}
+  values:
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}    
+- header: {name: '$p_{\mathrm{T}}(t)$', units: 'GeV'}
+  values:
+  - {high: 50, low: 0}
+  - {high: 50, low: 0}
+  - {high: 50, low: 0}
+  - {high: 50, low: 0}
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 100, low: 50}
+  - {high: 100, low: 50}
+  - {high: 100, low: 50}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}    
+dependent_variables:
+- header: {name: Correlation}
+  values:
+  - {value: 0.70}
+  - {value: 0.29}
+  - {value: 0.01}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.16}
+  - {value: 0.75}
+  - {value: 0.09}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.01}
+  - {value: 0.24}
+  - {value: 0.67}
+  - {value: 0.08}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.01}
+  - {value: 0.25}
+  - {value: 0.65}
+  - {value: 0.09}
+  - {value: 0.00}
+  - {value: 0.00}
+  - {value: 0.01}
+  - {value: 0.19}
+  - {value: 0.77}
+  

@@ -1,0 +1,21 @@
+dependent_variables:
+- header: {name: Definition}
+  values:
+  - {value: 'The invariant mass of the untagged jet ($j$) and the $b$-tagged jet ($b$)'}
+  - {value: 'The absolute value of the pseudorapidity of the untagged jet'}
+  - {value: 'The invariant mass of the reconstructed top quark'}
+  - {value: 'The transverse mass of the lepton-$E_{\mathrm{T}}^{\mathrm{miss}}$ system, as defined in Eq. (2) in the paper'}
+  - {value: 'The absolute value of $\Delta \eta$ between the reconstructed $W$ boson and the $b$-tagged jet'}
+  - {value: 'The invariant mass of the charged lepton ($\ell$) and the $b$-tagged jet'}
+  - {value: 'The cosine of the angle, $\theta^*$, between the charged lepton and the untagged jet in the rest frame of the reconstructed top quark'}
+independent_variables:
+- header: {name: 'Variable symbol'}
+  values:
+  - {value: '$m(j b)$'}
+  - {value: '$|\eta(j)|$'}
+  - {value: '$m(\ell \nu b)$'}
+  - {value: '$m_{\mathrm{T}}(\ell E_{\mathrm{T}}^{\mathrm{miss}})$'}
+  - {value: '$|\Delta \eta(\ell \nu,b)|$'}
+  - {value: '$m(\ell b)$'}
+  - {value: '$\cos \theta^*(\ell,j)$'} 
+  

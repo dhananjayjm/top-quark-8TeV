@@ -1,0 +1,85 @@
+independent_variables:
+- header: {name: '$p_{\mathrm{T}}(t)$', units: '$\mathrm{GeV}$'}
+  values:
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}  
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+
+- header: {name: '$p_{\mathrm{T}}(t)$', units: '$\mathrm{GeV}$'}
+  values:
+  - {high: 50, low: 0}
+  - {high: 50, low: 0}
+  - {high: 50, low: 0}
+  - {high: 50, low: 0}
+  - {high: 50, low: 0}
+  - {high: 100, low: 50}
+  - {high: 100, low: 50}
+  - {high: 100, low: 50}
+  - {high: 100, low: 50}
+  - {high: 100, low: 50}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 150, low: 100}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 200, low: 150}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+  - {high: 300, low: 200}
+
+dependent_variables:
+- header: {name: Correlation}
+  values:
+  - {value: 1.00}
+  - {value: -0.46}
+  - {value: 0.05}
+  - {value: 0.03}
+  - {value: -0.03}
+  - {value: -0.46}
+  - {value: 1.00}
+  - {value: -0.30}
+  - {value: 0.01}
+  - {value: 0.03}
+  - {value: 0.05}
+  - {value: -0.30}
+  - {value: 1.00}
+  - {value: -0.31}
+  - {value: 0.03}
+  - {value: 0.03}
+  - {value: 0.01}
+  - {value: -0.31}
+  - {value: 1.00}
+  - {value: -0.30}
+  - {value: -0.03}
+  - {value: 0.03}
+  - {value: 0.03}
+  - {value: -0.30}
+  - {value: 1.00}

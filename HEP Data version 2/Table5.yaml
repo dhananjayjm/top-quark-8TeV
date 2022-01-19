@@ -1,0 +1,27 @@
+dependent_variables:
+- header: {name: '$\mathrm{values}$'}
+  values:
+  - errors: 
+    - {label: stat., symerror: 0.16}
+    - {label: syst., symerror: 0.52}
+    - {label: lumi. pb, symerror: 0.19}
+    value: 9.78
+  - errors: 
+    - {label: pb, symerror: 0.57}
+    value: 9.78
+  - errors: 
+    - {label: stat., symerror: 0.14}
+    - {label: syst., symerror: 0.41}
+    - {label: lumi. pb, symerror: 0.11}
+    value: 5.77
+  - errors:   
+    - {label: pb, symerror: 0.45}
+    value: 5.77
+independent_variables:
+- header: {name: '$\mathrm{fiducial~cross-sections}$'}
+  values:
+  - {value: '$\sigma_{\mathrm{fid}}(tq)$'}
+  - {value: '$\sigma_{\mathrm{fid}}(tq)$'}
+  - {value: '$\sigma_{\mathrm{fid}}(\bar tq)$'}
+  - {value: '$\sigma_{\mathrm{fid}}(\bar tq)$'}  
+  

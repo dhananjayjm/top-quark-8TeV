@@ -1,0 +1,27 @@
+dependent_variables:
+- header: {name: '$a\left[\dfrac{\mathrm{pb}}{\mathrm{GeV}}\right]$'}
+  values:
+  - value: -0.06
+    errors:
+    - {symerror: 0.01}  
+  - value: -0.04
+    errors:
+    - {symerror: 0.01}  
+  - value: -0.59
+    errors:
+    - {symerror: 0.08}
+  - value: -0.37
+    errors:
+    - {symerror: 0.06}
+  - value: -0.96
+    errors:
+    - {symerror: 0.13}    
+independent_variables:
+- header: {name: '$\mathrm{Measurement}$'}
+  values:
+  - {value: '$\sigma_{\mathrm{fid}}(tq)$'}
+  - {value: '$\sigma_{\mathrm{fid}}(\bar tq)$'}
+  - {value: '$\sigma_{\mathrm{tot}}(tq)$'}
+  - {value: '$\sigma_{\mathrm{tot}}(\bar tq)$'}
+  - {value: '$\sigma_{\mathrm{tot}}(tq~+~\bar tq)$'} 
+  

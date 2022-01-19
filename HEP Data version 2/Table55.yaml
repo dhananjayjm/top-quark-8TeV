@@ -1,0 +1,84 @@
+dependent_variables:
+- header: {name: '$\mathrm{Shower~MC}$'}        
+  values:  
+  - {value: ''}
+  - {value: '$\mathrm{P{\scriptsize YTHIA}~6}$'}
+  - {value: '$\mathrm{P{\scriptsize YTHIA}~8}$'}
+  - {value: '$\mathrm{H{\scriptsize ERWIG}}$'}
+  - {value: '$\mathrm{H{\scriptsize ERWIG}~7}$'}
+  - {value: '$\mathrm{H{\scriptsize ERWIG}}$'}
+  - {value: '$\mathrm{H{\scriptsize ERWIG}~7}$'} 
+  - {value: ''} 
+  - {value: '$\mathrm{P{\scriptsize YTHIA}~6}$'}
+  - {value: '$\mathrm{P{\scriptsize YTHIA}~8}$'}
+  - {value: '$\mathrm{H{\scriptsize ERWIG}~7}$'}
+   
+- header: {name: 'Method'}          
+  values:  
+  - {value: ''}
+  - {value: '4FS(NLO)'}
+  - {value: '4FS(NLO)'}
+  - {value: '4FS(NLO)'}
+  - {value: '4FS(NLO)'}
+  - {value: '4FS(NLO)'}
+  - {value: '4FS(NLO)'} 
+  - {value: ''} 
+  - {value: '5FS(NLO)'}
+  - {value: '5FS(NLO)'}
+  - {value: '5FS(NLO)'}
+- header: {name: '$A_{\mathrm{fid}}(\bar tq) \\ [\%]$'}          
+  values:  
+  - {value: ''}
+  - {value: '17.5'}
+  - {value: '17.5'}
+  - {value: '17.4'}
+  - {value: '16.7'}
+  - {value: '17.1'}
+  - {value: '18.3'}  
+  - {value: ''}
+  - {value: '18.0'}
+  - {value: '17.8'}
+  - {value: '17.1'}
+- header: {name: '$\mathrm{Scale~unc.} \\ [\%]$'}          
+  values:  
+  - {value: ''}
+  - {value: '$+0.2/-0.4$'}
+  - {value: '$+0.2/-0.4^{\mathrm{(b)}}$'}
+  - {value: '$+0.2/-0.4^{\mathrm{(b)}}$'}
+  - {value: '$+0.1/-0.1$'}
+  - {value: '$+0.2/-0.4^{\mathrm{(b)}}$'}
+  - {value: '$+0.2/-0.4^{\mathrm{(b)}}$'}  
+  - {value: ''}
+  - {value: '$+0.1/-0.2$'}
+  - {value: '$+0.2/-0.3$'}
+  - {value: '$+0.4/-0.3$'}
+- header: {name: '$\mathrm{PDF~unc.} \\ [\%]$'}          
+  values:  
+  - {value: ''}
+  - {value: '$\pm 0.16^{\hspace{0.1cm}{\mathrm{(a)}}}$'}
+  - {value: '$\pm 0.16^{\hspace{0.1cm}{\mathrm{(a)}}}$'}
+  - {value: '$\pm 0.16^{\hspace{0.1cm}{\mathrm{(a)}}}$'}
+  - {value: '$\pm 0.16^{\hspace{0.1cm}{\mathrm{(a)}}}$'}
+  - {value: '$\pm 0.16^{\hspace{0.1cm}{\mathrm{(a)}}}$'}
+  - {value: '$\pm 0.16^{\hspace{0.1cm}{\mathrm{(a)}}}$'}  
+  - {value: ''}
+  - {value: '$\pm 0.16^{\hspace{0.1cm}{\mathrm{(a)}}}$'}
+  - {value: '$\pm 0.16^{\hspace{0.1cm}{\mathrm{(a)}}}$'}
+  - {value: '$\pm 0.16^{\hspace{0.1cm}{\mathrm{(a)}}}$'}
+  
+independent_variables:
+- header: {name: '$\mathrm{ME~GENERATOR}$'}
+  values:    
+  - {value: ''}
+  - {value: '$\mathrm{P{\scriptsize OWHEG}}$-$\mathrm{B{\scriptsize OX}}$'}
+  - {value: '$\mathrm{P{\scriptsize OWHEG}}$-$\mathrm{B{\scriptsize OX}}$'}
+  - {value: '$\mathrm{P{\scriptsize OWHEG}}$-$\mathrm{B{\scriptsize OX}}$'}
+  - {value: '$\mathrm{P{\scriptsize OWHEG}}$-$\mathrm{B{\scriptsize OX}}$'} 
+  - {value: '$\mathrm{M{\scriptsize AD}G{\scriptsize RAPH}5}$_$\mathrm{aMC@NLO}$'} 
+  - {value: '$\mathrm{M{\scriptsize AD}G{\scriptsize RAPH}5}$_$\mathrm{aMC@NLO}$'}   
+  - {value: ''}
+  - {value: '$\mathrm{P{\scriptsize OWHEG}}$-$\mathrm{B{\scriptsize OX}}$'}
+  - {value: '$\mathrm{P{\scriptsize OWHEG}}$-$\mathrm{B{\scriptsize OX}}$'}
+  - {value: '$\mathrm{M{\scriptsize AD}G{\scriptsize RAPH}5}$_$\mathrm{aMC@NLO}$'} 
+
+  

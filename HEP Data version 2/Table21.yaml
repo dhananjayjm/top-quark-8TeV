@@ -1,0 +1,87 @@
+independent_variables: 
+- header: {name: '$|y(\hat{t\hspace{-0.2mm}})|$'}
+  values:
+  - {value: '0.00-0.15'}
+  - {value: '0.15-0.30'}
+  - {value: '0.30-0.45'}
+  - {value: '0.45-0.70'}
+  - {value: '0.70-1.00'}
+  - {value: '1.00-1.30'}
+  - {value: '1.30-2.20'}     
+dependent_variables:
+- header: {name: '$\dfrac{\mathrm{d}\sigma(\bar tq)}{\mathrm{d}|y(\hat{t\hspace{-0.2mm}})|}$', units: '$\mathrm{pb}$'}    
+  values:
+  - errors:
+    - {label: stat, symerror: 0.44}
+    - asymerror: {minus: -0.49, plus: 0.50}
+      label: syst
+    value: 6.65
+  - errors:
+    - {label: stat, symerror: 0.43}
+    - asymerror: {minus: -0.43, plus: 0.41}
+      label: syst
+    value: 4.68
+  - errors:
+    - {label: stat, symerror: 0.42}
+    - asymerror: {minus: -0.39, plus: 0.40}
+      label: syst
+    value: 4.97
+  - errors:
+    - {label: stat, symerror: 0.29}
+    - asymerror: {minus: -0.33, plus: 0.34}
+      label: syst
+    value: 4.08
+  - errors:
+    - {label: stat, symerror: 0.23}
+    - asymerror: {minus: -0.27, plus: 0.27}
+      label: syst
+    value: 3.21
+  - errors:
+    - {label: stat, symerror: 0.20}
+    - asymerror: {minus: -0.20, plus: 0.20}
+      label: syst
+    value: 2.30
+  - errors:
+    - {label: stat, symerror: 0.07}
+    - asymerror: {minus: -0.07, plus: 0.08}
+      label: syst
+    value: 0.76        
+     
+- header: {name: '$\left(\dfrac{1}{\sigma}\right)\dfrac{\mathrm{d}\sigma(\bar tq)}{\mathrm{d}|y(\hat{t\hspace{-0.2mm}})|}$', units: '$\mathrm{10^{-3}}$'}    
+  values:
+  - errors:
+    - {label: stat, symerror: 70}
+    - asymerror: {minus: -55, plus: 57}
+      label: syst
+    value: 1145
+  - errors:
+    - {label: stat, symerror: 71}
+    - asymerror: {minus: -57, plus: 51}
+      label: syst
+    value: 806
+  - errors:
+    - {label: stat, symerror: 69}
+    - asymerror: {minus: -40, plus: 44}
+      label: syst
+    value: 856
+  - errors:
+    - {label: stat, symerror: 46}
+    - asymerror: {minus: -39, plus: 38}
+      label: syst
+    value: 703
+  - errors:
+    - {label: stat, symerror: 37}
+    - asymerror: {minus: -30, plus: 28}
+      label: syst
+    value: 553
+  - errors:
+    - {label: stat, symerror: 32}
+    - asymerror: {minus: -17, plus: 17}
+      label: syst
+    value: 396
+  - errors:
+    - {label: stat, symerror: 11}
+    - asymerror: {minus: -7, plus: 8}
+      label: syst
+    value: 132    
+      
