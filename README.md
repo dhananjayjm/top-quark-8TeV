@@ -7,5 +7,7 @@ Under the supervision of **Prof. Wolfgang Wagner**
 - Relevant Links:
   - [hepdata.net - 7 TeV Data](https://www.hepdata.net/record/ins1303905) ([GitHub Repository](https://github.com/dhananjayjm/top-quark-7-TeV))
   - [hepdata.net - 8 TeV Data](https://www.hepdata.net/record/82544) ([GitHub Repository](https://github.com/dhananjayjm/top-quark-8TeV))
-  - Conducted a study of a Monte Carlo event generator.
- ![](https://github.com/dhananjayjm/top-quark-8TeV/blob/master/8TeV.png)
+  - Conducted a study of a Monte Carlo event generator. 
+
+---
+  - ![](https://github.com/dhananjayjm/top-quark-8TeV/blob/master/8TeV.png)
